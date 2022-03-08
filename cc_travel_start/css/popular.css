@@ -1,0 +1,76 @@
+#popular{
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.popular-image{
+    width: 250px;
+    height: 250px;
+    /* background-color: blue; */
+    border:1px solid white;
+    flex: 33%;
+    color:white;
+    display: flex;
+    align-items: bottom;
+    justify-content: left;
+    font-family: Hubballi, sans-serif;
+    font-size: 220%;
+  }
+
+.popular-img-1{
+    background-image: url(../img/destination/america.png);
+    background-size: 100% 100%;
+}
+
+.popular-img-2{
+    background-image: url(../img/destination/brazil.png);
+    background-size: 100% 100%;
+}
+
+.popular-img-3{
+    background-image: url(../img/destination/indonesia.png);
+    background-size: 100% 100%;
+}
+
+.popular-img-4{
+    background-image: url(../img/destination/italy.png);
+    background-size: 100% 100%;
+}
+
+.popular-img-5{
+    background-image: url(../img/destination/maldives.png);
+    background-size: 100% 100%;
+}
+
+.popular-img-6{
+    background-image: url(../img/destination/nepal.png);
+    background-size: 100% 100%;
+}
+
+#popular-destinations-heading{
+    text-align: center;
+}
+
+.main-nav-pop {
+    display: flex;
+    /* background-color: #4584b1; */
+  }
+  .main-nav-pop li:first-child {
+    margin-right: auto;
+  }
+  .main-nav-pop li {
+  list-style: none;
+  }
+  
+  .main-nav-pop a {
+    margin: 10px;
+    border-radius: 5px;
+    background: #60B99A;
+    color: #fff;
+      display: block;
+      padding: 15px;
+      text-decoration: none;
+  }
+  .main-nav-pop .logo {
+    background: #4584b1;
+  }
