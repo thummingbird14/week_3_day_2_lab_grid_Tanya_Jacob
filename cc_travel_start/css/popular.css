@@ -46,7 +46,30 @@
     background-image: url(../img/destination/nepal.png);
     background-size: 100% 100%;
 }
-
+.popular-place-1{
+    background-image: url(../img/place/california.png);
+    background-size: 100% 100%;
+}
+.popular-place-2{
+    background-image: url(../img/place/korola_megna.png);
+    background-size: 100% 100%;
+}
+.popular-place-3{
+    background-image: url(../img/place/london.png);
+    background-size: 100% 100%;
+}
+.popular-place-4{
+    background-image: url(../img/place/iceland.png);
+    background-size: 100% 100%;
+}
+.popular-place-5{
+    background-image: url(../img/place/california_2.png);
+    background-size: 100% 100%;
+}
+.popular-place-6{
+    background-image: url(../img/destination/maldives.png);
+    background-size: 100% 100%;
+}
 #popular-destinations-heading{
     text-align: center;
 }
